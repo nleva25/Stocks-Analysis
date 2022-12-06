@@ -3,13 +3,13 @@
 The purpose of this analysis was to calculate the total volume traded and annual returns for 12 different stocks for the the years 2017 and 2018 using a refactored script to minimize the runtime.  
 ## Results
 ### 2017
-![2017 Performance](path/to/image_name.png) ![2017 Runtime Results](path/to/image_name.png)
+![2017 Performance](https://github.com/nleva25/Stocks-Analysis/blob/main/Resources/2017%20Results.png) ![2017 Runtime Results](https://github.com/nleva25/Stocks-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 Overall, 2017 was a good year for all the companies with the exception of TERP which saw a negative annual return of 7.2%. The other 11 comapanies had postitive returns and of those, 9 had double digit returns. Only RUN and AY had returns lower than 10%.
 
 The overall runtime was lower as well. The refactored script ran in 0.1171875 seconds for 2017 compared to the original srcipt at 0.7109375 seconds. 
 
 ### 2018
-![2018 Performance](path/to/image_name.png) ![2018 Runtime Results](path/to/image_name.png)
+![2018 Performance](https://github.com/nleva25/Stocks-Analysis/blob/main/Resources/2018%20Results.png) ![2018 Runtime Results](https://github.com/nleva25/Stocks-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 2018 performance was much worse than 2017. Out of the 11 stocks 9 saw negative returns, and 2 had all of their 2017 gains erased: JKS ans SPWR. Only 2 stocks continued to have positive annaul returns: ENPH and RUN at 81.9% and 84.0% respectively.
 
 The runtime was lower as well. The refactored script ran in 0.1015625 seconds compared to 0.7265625 seconds for the original script. 
